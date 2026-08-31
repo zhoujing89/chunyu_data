@@ -1,0 +1,1 @@
+Note: Invalid rows refer to observations without any displayed consultation text
