@@ -16,6 +16,8 @@ The Physician Profile Feature dataset comprises a longitudinal physician–week 
 ### Derived Variables
 The Derived Variables dataset encompasses feedback metrics and multimodal consultation-derived features. Specifically, the feedback metrics are uniquely identified by the combination of *doc_id* and *week*, whereas the consultation-derived features are provided at two levels of granularity: consultation-level and weekly-level.
 
+All tabular data are stored in either .csv or .xlsx format to ensure straightforward accessibility and direct reading.
+
 ### Supplementary Data
 This directory contains supporting resources required to interpret or reproduce the released variables.
 
